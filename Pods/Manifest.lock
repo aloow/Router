@@ -1,0 +1,25 @@
+PODS:
+  - MGJRouter (0.10.0)
+  - ModuleC (1.0.0)
+  - ModuleD (1.0.0)
+
+DEPENDENCIES:
+  - MGJRouter
+  - ModuleC
+  - ModuleD
+
+SPEC REPOS:
+  https://github.com/aloow/shaoqingRepo.git:
+    - ModuleC
+    - ModuleD
+  https://github.com/cocoapods/specs.git:
+    - MGJRouter
+
+SPEC CHECKSUMS:
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  ModuleC: 1b17ea125303226fcdb1359b65d62b9e1f9e532c
+  ModuleD: 993a6378b02c6f834c1080161bb4bea685b8703d
+
+PODFILE CHECKSUM: 457331df1741f1aa1794773a2328ff029af2056b
+
+COCOAPODS: 1.6.0
